@@ -1,7 +1,7 @@
 # PicPay Fraud Sentinel 🛡️
 
 Pipeline de detecção de fraude em transações Pix usando o stack 
-real de dados do PicPay — PySpark, Databricks e SQL.
+real de dados — PySpark, Databricks e SQL.
 
 ## Problema de negócio
 
